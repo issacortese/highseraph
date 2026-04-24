@@ -13,6 +13,7 @@ The ultima 🙃 goal of this project is to develop a chaos engineering tool wher
 **v0.1.0**
 
 - CLI scaffolding
+- ![screenshot](assets/cmd-screen.png)
 
 See [CHANGELOG](./CHANGELOG.md) for full update history.
 
